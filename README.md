@@ -93,10 +93,6 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udaya-Reddy-397&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Udaya-Reddy-397&theme=tokyonight&hide_border=true" />
-</p>
-
 ### 🏆 GitHub Trophies
 
 <p align="center">
