@@ -90,19 +90,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Udaya-Reddy-397&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udaya-Reddy-397&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Udaya-Reddy-397&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
 ### 📊 Activity Graph
 
 <p align="center">
