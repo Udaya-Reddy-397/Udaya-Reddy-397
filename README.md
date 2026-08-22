@@ -1,9 +1,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E2DE2&height=200&section=header&text=Hi,%20I'm%20Udaya%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
-<h3 align="center">AIML Student | Builder of ML pipelines, embedded systems & full-stack apps</h3>
+<h3 align="center">B.Tech CSE Student | Aspiring Software Engineer | Python | C++ | Web Development | AI/ML</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI%2FML+%7C+Python+%7C+C%2FC%2B%2B;Building+GuardianX;CTF+Player+%40+HackZero+'26" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI%2FML+%7C+Python+%7C+C%2FC%2B%2B;Building+GuardianX;CTF+Player" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyMTVsa21hbmtveWN1bXlheDZwdnRqM3dybzBmZTRqMXRzZDltNXllNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" />
 </p>
 
 ---
@@ -11,7 +15,7 @@
 ### 🚀 About Me
 
 - 🎓 Studying Artificial Intelligence & Machine Learning (AIML), currently working on ML pipelines, embedded systems, and full-stack projects
-- 🛡️ Interested in cybersecurity — participated in **HackZero '26** CTF (OSINT, APT analysis, web exploitation)
+- 🛡️ Interested in cybersecurity and CTF challenges (OSINT, APT analysis, web exploitation)
 - 🤖 Built **GuardianX** — an AI-powered smart helmet system with digital twin tech (ESP32 + Flutter + FastAPI)
 - 💬 Built a conversational AI chatbot using DialoGPT + Flask
 - 📈 Enjoy working on time-series forecasting, anomaly detection, and NLP
@@ -82,7 +86,7 @@
 
 ### 🏆 CTF & Security
 
-- 🚩 **HackZero '26** — solved OSINT/APT challenges (Turla/Snake ecosystem analysis), aircraft OSINT image analysis, and web exploitation challenges
+- 🚩 Solved OSINT/APT challenges (Turla/Snake ecosystem analysis), aircraft OSINT image analysis, and web exploitation challenges in CTF competitions
 
 ---
 
@@ -112,9 +116,7 @@
 <p align="left">
   <a href="https://github.com/Udaya-Reddy-397" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/udaya-reddy-416975394/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <!-- Add your Email badge here, e.g.:
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  -->
+  <a href="mailto:udayareddy41@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">⭐️ From <a href="https://github.com/Udaya-Reddy-397">Udaya-Reddy-397</a></p>
