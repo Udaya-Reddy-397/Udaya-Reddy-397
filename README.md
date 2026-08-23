@@ -3,7 +3,7 @@
 <h3 align="center">B.Tech CSE Student | Aspiring Software Engineer | Python | C++ | Web Development | AI/ML</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI%2FML+%7C+Python+%7C+C%2FC%2B%2B;Building+GuardianX;CTF+Player" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI%2FML+%7C+Python+%7C+C%2FC%2B%2B;Building+GuardianX" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,7 +15,6 @@
 ### 🚀 About Me
 
 - 🎓 Studying Artificial Intelligence & Machine Learning (AIML), currently working on ML pipelines, embedded systems, and full-stack projects
-- 🛡️ Interested in cybersecurity and CTF challenges (OSINT, APT analysis, web exploitation)
 - 🤖 Built **GuardianX** — an AI-powered smart helmet system with digital twin tech (ESP32 + Flutter + FastAPI)
 - 💬 Built a conversational AI chatbot using DialoGPT + Flask
 - 📈 Enjoy working on time-series forecasting, anomaly detection, and NLP
@@ -81,12 +80,6 @@
 | 🏥 [Hospital_Management_System](https://github.com/Udaya-Reddy-397/Hospital_Management_System) | C++ system using file handling to admit and discharge patients |
 | 💰 [expense_tracker](https://github.com/Udaya-Reddy-397/expense_tracker) | Python-based personal expense tracking tool |
 | 📘 [CSE0001_Digital_Literacy](https://github.com/Udaya-Reddy-397/CSE0001_Digital_Literacy) | Digital literacy project — infographics, digital portfolio, coding platforms, email etiquette, cybercrime awareness |
-
----
-
-### 🏆 CTF & Security
-
-- 🚩 Solved OSINT/APT challenges (Turla/Snake ecosystem analysis), aircraft OSINT image analysis, and web exploitation challenges in CTF competitions
 
 ---
 
