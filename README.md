@@ -2,8 +2,7 @@
 
 <h3 align="center">B.Tech CSE Student | Aspiring Software Engineer | Python | C++ | Web Development | AI/ML</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI%2FML+%7C+Python+%7C+C%2FC%2B%2B;Building+GuardianX" alt="Typing SVG" />
+
 </p>
 
 <p align="center">
